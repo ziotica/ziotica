@@ -1,5 +1,5 @@
 Uni student. ~~Plant mother.~~[^1] Train enthusiast. Chess player. List maker. \
-Not doing anything particularly productive at any given time. \
+Not doing anything particularly productive at any given time. 
 
 [^1]: Plant died.
 
