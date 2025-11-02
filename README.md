@@ -1,5 +1,7 @@
-Uni student. Plant mother. Train enthusiast. Chess player. List maker. \
-Not doing anything particularly productive at any given time.
+Uni student. ~~Plant mother.~~[^1] Train enthusiast. Chess player. List maker. \
+Not doing anything particularly productive at any given time. \
+\ 
+[^1]: Plant died.
 
 https://en.pronouns.page/@ziotica
 
