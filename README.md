@@ -3,7 +3,9 @@ Not doing anything particularly productive at any given time.
 
 [^1]: ~~Plant died.~~[^2]
 
-[^2]: Got a new plant, successful mothering to be determined
+[^2]: ~~Got a new plant, successful mothering to be determined.~~[^3]
+
+[^3]: Expermiment unsuccessful.
 
 https://en.pronouns.page/@ziotica
 
